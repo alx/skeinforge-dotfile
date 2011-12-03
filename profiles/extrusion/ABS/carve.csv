@@ -7,7 +7,7 @@ Extra Decimal Places (float):	2.0
 Import Coarseness (ratio):	1.0
 Layer Thickness (mm):	0.3
 Layers From (index):	0
-Layers To (index):	-3
+Layers To (index):	999999
 Correct Mesh	True
 Unproven Mesh	False
 Perimeter Width over Thickness (ratio):	1.5
