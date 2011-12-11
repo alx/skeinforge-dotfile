@@ -4,7 +4,7 @@ WindowPosition	600+0
 Open File for Craft	
 alteration	False
 bottom	False
-carve	True
+carve	False
 chamber	False
 chop	False
 cleave	False
@@ -40,7 +40,7 @@ smooth	False
 speed	False
 splodge	False
 stretch	False
-temperature	False
+temperature	True
 tower	False
 unpause	False
 whittle	False
