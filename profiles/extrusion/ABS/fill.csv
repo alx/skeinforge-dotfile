@@ -21,7 +21,7 @@ Grid Hexagonal	False
 Grid Rectangular	False
 Line	True
 Infill Perimeter Overlap (ratio):	0.15
-Infill Solidity (ratio):	1.0
+Infill Solidity (ratio):	0.3
 Infill Width over Thickness (ratio):	1.5
 Solid Surface Thickness (layers):	1
 Lower Left	True
