@@ -3,9 +3,9 @@ _Name                          	Value
 WindowPosition	700+0
 Open File for Export	
 Activate Export	True
-Add Descriptive Extension	False
+Add Descriptive Extension	True
 Add Export Suffix	True
-Add Profile Extension	False
+Add Profile Extension	True
 Add Timestamp Extension	False
 Also Send Output To:	
 Analyze Gcode	True
