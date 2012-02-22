@@ -13,7 +13,7 @@ G21        ( to Z1.0 - the number after the Z is the actual, physical )
 G21        ( height of the nozzle in mm. This can take some messing around )
 G21        ( with to get just right... )
 G21
-G92 X-60 Y-120 Z0.3 E0 (reset software position to front/left/z=0.0)
+G92 X-60 Y-120 Z0.4 E0 (reset software position to front/left/z=0.0)
 G21
 G1 Z15.0 F400  (move the platform down 15mm)
 G1 X0 Y0 F3500 (go to the middle of the platform)

@@ -4,7 +4,7 @@ WindowPosition	600+0
 Open File for Craft	
 alteration	False
 bottom	False
-carve	False
+carve	True
 chamber	False
 chop	False
 cleave	False
@@ -16,7 +16,7 @@ dimension	False
 drill	False
 export	False
 feed	False
-fill	True
+fill	False
 fillet	False
 flow	False
 home	False
